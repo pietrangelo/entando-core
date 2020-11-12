@@ -259,7 +259,7 @@
         <springsecurity.version>5.1.5.RELEASE</springsecurity.version>
         <springsecurityoauth2.version>2.3.6.RELEASE</springsecurityoauth2.version>
         <struts2.version>2.5.17</struts2.version>
-        <cxf.version>3.1.16</cxf.version>
+        <cxf.version>3.3.8</cxf.version>
         <jackson.version>2.10.0</jackson.version>
         <hibernate-validator-version>6.0.17.Final</hibernate-validator-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
