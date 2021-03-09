@@ -255,10 +255,11 @@
         <test.database.port.url>jdbc:derby:${project.build.directory}/test/db/${project.artifactId}testPort;create=true</test.database.port.url>
         <test.database.serv.url>jdbc:derby:${project.build.directory}/test/db/${project.artifactId}testServ;create=true</test.database.serv.url>
 
+
         <spring.version>5.1.13.RELEASE</spring.version>
         <springsecurity.version>5.1.10.RELEASE</springsecurity.version>
         <springsecurityoauth2.version>2.4.1.RELEASE</springsecurityoauth2.version>
-        <struts2.version>2.5.17</struts2.version>
+        <struts2.version>2.5.22</struts2.version>
         <cxf.version>3.2.12</cxf.version>
         <jackson.version>2.10.0</jackson.version>
         <hibernate-validator-version>6.0.19.Final</hibernate-validator-version>
@@ -375,7 +376,7 @@
         <dependency>
             <groupId>commons-codec</groupId>
             <artifactId>commons-codec</artifactId>
-            <version>1.9</version>
+            <version>1.13</version>
             <type>jar</type>
             <scope>compile</scope>
         </dependency>
