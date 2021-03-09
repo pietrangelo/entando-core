@@ -254,8 +254,6 @@
         <test.database.password>agile</test.database.password>
         <test.database.port.url>jdbc:derby:${project.build.directory}/test/db/${project.artifactId}testPort;create=true</test.database.port.url>
         <test.database.serv.url>jdbc:derby:${project.build.directory}/test/db/${project.artifactId}testServ;create=true</test.database.serv.url>
-
-
         <spring.version>5.1.13.RELEASE</spring.version>
         <springsecurity.version>5.1.10.RELEASE</springsecurity.version>
         <springsecurityoauth2.version>2.4.1.RELEASE</springsecurityoauth2.version>
